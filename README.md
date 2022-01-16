@@ -57,3 +57,7 @@ Checked for duplicates, there was none. In total there are: 5595064 rows Then .c
 combined_csv.csv file uploaded to [www.kaggle.com](https://www.kaggle.com/bakiguher/google-data-analytics-certificate-course-capstone)
 processing phase done in kaggle notebook. A copy of notebook file: [google-data-analytics-certificate-course-capstone.ipynb](google-data-analytics-certificate-course-capstone.ipynb)
 
+
+FINDINGS & QUESTIONS
+
+*When the shortest distance checked there are many 1-2-3 second rents. some starts end ends at the same station. It must be asked the company are these rents count. 
