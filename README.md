@@ -21,6 +21,7 @@ Cyclistic has a clear goal; design marketing strategies aimed at converting casu
 **Processes for data analysis phases:
 
 1-ASK
+
 -How do annual members and casual riders use Cyclistic bikes differently?
 -What is the difference between annual members and casual riders?
 -Why casual riders would buy a membership?
@@ -48,8 +49,8 @@ The data has following attributes:
 
 The data source is reliable, original, comprehensive, current and cited. The data has been made available under this [license] (https://ride.divvybikes.com/data-license-agreement).
 
-3-PROCESS
 All 2021 data was very big, I downloaded it to my local pc and combined them in to one .csv file with a python script [prepare_csv.py](prepare_csv.py). 
-Checked for duplicates, there was none. 
-In total there are: 5595064 rows Then .csv file is uploaded to kaggle. 
+Checked for duplicates, there was none. In total there are: 5595064 rows Then .csv file is uploaded to kaggle. 
 
+3-PROCESS
+...combined_csv.csv file uploaded to [www.kaggle.com](https://www.kaggle.com/bakiguher/google-data-analytics-certificate-course-capstone)
