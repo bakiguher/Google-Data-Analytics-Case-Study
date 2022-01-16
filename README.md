@@ -53,4 +53,7 @@ All 2021 data was very big, I downloaded it to my local pc and combined them in 
 Checked for duplicates, there was none. In total there are: 5595064 rows Then .csv file is uploaded to kaggle. 
 
 3-PROCESS
-...combined_csv.csv file uploaded to [www.kaggle.com](https://www.kaggle.com/bakiguher/google-data-analytics-certificate-course-capstone)
+
+combined_csv.csv file uploaded to [www.kaggle.com](https://www.kaggle.com/bakiguher/google-data-analytics-certificate-course-capstone)
+processing phase done in kaggle notebook. A copy of notebook file: [google-data-analytics-certificate-course-capstone.ipynb](google-data-analytics-certificate-course-capstone.ipynb)
+
